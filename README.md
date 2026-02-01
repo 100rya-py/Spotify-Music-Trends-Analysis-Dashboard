@@ -25,7 +25,7 @@ This dashboard helps stakeholders (Record Labels, Marketing Teams, or Analysts) 
 Acts as the central navigation hub for the report. I designed this landing page to mimic the Spotify mobile app interface for a familiar user experience.
 * **Features:** One-click navigation buttons to access specific analysis sections.
 * **Screenshot:**
-    ![Home Page](Insert_Home_Page_Screenshot_Link_Here)
+    ![Home Page](https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/Home%20Page.png)
 
 #### 2. Overview Page
 Provides a high-level summary of the entire dataset. This page answers the "big picture" questions about the music library.
@@ -35,7 +35,7 @@ Provides a high-level summary of the entire dataset. This page answers the "big 
     * **Trend Line:** Analysis of Average Popularity over time to spot seasonal trends.
     * **Column Chart:** Monthly distribution of songs to identify peak release windows.
 * **Screenshot:**
-    ![Overview Page](Insert_Overview_Page_Screenshot_Link_Here)
+    ![Overview Page](https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/Overview%20Page.png)
 
 #### 3. Artists Analysis
 Focuses on artist-level performance metrics to identify top-tier talent and catalogue depth.
@@ -44,7 +44,7 @@ Focuses on artist-level performance metrics to identify top-tier talent and cata
     * **Popularity vs. Volume:** Compares artists based on their total reach versus their output volume.
     * **Detailed Table:** A granular view of tracks, album counts, and average duration per artist.
 * **Screenshot:**
-    ![Artists Page](Insert_Artists_Page_Screenshot_Link_Here)
+    ![Artists Page](https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/Artists%20Page.png)
 
 #### 4. Songs Analysis
 Drills down into individual track performance.
@@ -53,7 +53,7 @@ Drills down into individual track performance.
     * **Hits per Artist:** Visualizes which artists are generating the most "hit" songs.
     * **Granular Data:** A detailed table view allowing users to filter by Year, Month, and Explicit content.
 * **Screenshot:**
-    ![Songs Page](Insert_Songs_Page_Screenshot_Link_Here)
+    ![Songs Page](https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/Songs%20Page.png)
 
 ---
 
@@ -64,7 +64,7 @@ Drills down into individual track performance.
 
 ### 📂 Data Source
 The dataset used for this analysis includes comprehensive details on tracks, artists, and popularity scores.
-* **Source:** [Insert Data Source Link Here]
+* **Source:** [https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/spotify-top-50-world.csv]
 
 ---
 
