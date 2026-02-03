@@ -66,7 +66,4 @@ Drills down into individual track performance.
 The dataset used for this analysis includes comprehensive details on tracks, artists, and popularity scores.
 * **Source:** [https://github.com/100rya-py/Spotify-Music-Trends-Analysis-Dashboard/blob/main/spotify-top-50-world.csv]
 
----
 
-### 📬 Contact
-If you have any questions about the dashboard logic or the design process, feel free to reach out!
